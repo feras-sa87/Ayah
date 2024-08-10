@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">آية</string>
+    <string name="ayah_button">آيـــة جديدة</string>
+    <string name="page_button">صفحــة جديدة</string>
+
+    <string name="ayah_nav">آيـــة</string>
+    <string name="page_nav">صفحــة</string>
+
+
+    <string name="retry_button">إعـــادة</string>
+
+    <string name="error_message">لا يوجد اتصال إنترنت</string>
+
+    <string name="surah_ayah">%s، %s</string>
+    <string name="page_number">صَفْحَةُ، %s</string>
+
+    <string name="top_app_bar_title">"بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ"</string>
+    <string name="next_page">التالية</string>
+    <string name="previous_page">السابقة</string>
+    <string name="azkar">أذكار الصباح والمساء</string>
+    <string name="notification_name">التنبيهات اليومية</string>
+    <string name="notification_description">تذكير قراءة الأذكار</string>
+    <string name="settings">إعدادات</string>
+    <string name="close">إغلاق</string>
+    <string name="enable">تشغيل</string>
+    <string name="disable">تعطيل</string>
+    <string name="auto_scroll_label">التمرير التلقائي</string>
+    <string name="auto_scroll_description">يعمل هذا الإعداد على تشغيل أو تعطيل التمرير التلقائي لصفحات القرآن عند بداية تشغيل التطبيق، يمكن تشغيل أو تعطيل هذه الميزة مؤقتا من خلال زر التشغيل أو التعطيل أثناء عرض الصفحة</string>
+    <string name="start_screen_label">شاشة البدء</string>
+
+</resources>
